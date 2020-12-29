@@ -41,6 +41,6 @@ Faraway, J. J. (2006). Extending the linear model with R: Generalized linear, mi
 
 Palmer G.A., Boykin A.M., Lythgoe K.O., Bizzell D.L., Daiss D.D. (2006). Mental health	professionals' perceptions of difficult psychiatric situations: A brief report on			development of the Psychiatric Situations Scale.  Internet Journal of Mental Health, E3,		[Online serial].
 
-R Core Team (2019). R: A language and environment for statistical computing [Computer 	software]. R Foundation for Statistical Computing, Vienna, Austria. Retrieved from 	https://www.R-project.org/
+R Core Team (2020). R: A language and environment for statistical computing [Computer 	software]. R Foundation for Statistical Computing, Vienna, Austria. Retrieved from 	https://www.R-project.org/
 
 Revelle, W. (2018). psych: Procedures for Personality and Psychological Research [Computer 	software, R package version 1.8.12]. Northwestern University, Evanston, Illinois, 	USA.		Retrieved from https://CRAN.R-project.org/package=psych
